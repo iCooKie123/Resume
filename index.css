@@ -263,6 +263,10 @@ page[size="A4"] {
 	padding-left: 0.5cm;
 	list-style-type: disc;
 }
+
+.mb-05 {
+	margin-bottom: 0.16cm;
+}
 /*End Layout*/
 
 @media print {
